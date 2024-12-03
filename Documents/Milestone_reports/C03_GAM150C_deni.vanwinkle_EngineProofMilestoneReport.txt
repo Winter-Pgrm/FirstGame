@@ -1,0 +1,44 @@
+STUDENT:	Deni Van Winkle
+LOGIN ID:	deni.vanwinkle
+DEGREE: 	BSGD
+
+TEAM NAME: 	Ice Cubez
+TEAM ID:	C03
+GAME NAME: 	Inversion
+HIGH CONCEPT:	A layered level adventure through a linear color based 2D platformer with a grappling hook.
+
+LINKS: 	https://svn.digipen.edu/projects/ice_cubez/trunk/
+        https://trac.digipen.edu/projects/ice_cubez
+
+WORK DONE:
+1/18	 2 hours Design and idea meeting with team
+1/22	 1 hour  Plannning teammeeting and what everyone has worked on in the project so far.
+1/23 	 3 hours Creating the weekly design document and oking all the details with the rest of the team, as well as creating the pitch presentation.
+1/24 	 1 hour  Planning who would say what in the pitch presentaion, to only be throughout the window at the last moment as a teammember hadn't shown up
+1/24	 2 hours Implementing the intitial FMOD code and included the libraries that were needed
+1/29     4 hours Debugging the FMOD implementation and project additions
+1/30     1 hour  Creating the weekly design document and oking all the details with the rest of the team.
+1/31	 2 hours Creating a time table and backlog in excel for the team to use
+2/3 	 3 hours Implemented a logo game state and main menu game state, don't have the art assets for it yet though, Debugging any possible glitched before engine proof 
+2/4 	 1 hour  Disscussing progress of the game so far with one teammate
+2/4 	 1 hour  Placing the sprite and animation files into the project and checking if they break the project
+2/6 	 2 hours Making the weekly report and the slideshow for the presentation/ checking the working build
+2/7	 1 hour  Planning the presentation as if we were a teammember down and trying to figure out who's svn update broke the build
+
+TOTAL HOURS:
+24 hours
+
+TOTAL LINES OF CODE:
+132
+
+NOTES:
+Communication has become a problem for everyone on the team. I will attempt to contact people and instead of taking the normal thirty minutes
+or so for a response I won't get one at all. Before some of the production reports I didn't have what everyone had finished because no one
+had sent me anything when I asked.
+Stepping on eachothers code creates problems and lead to the eventual crash before the presentation. I've started using as many possible
+places to communicate with the rest of the team as possible this includes sending a message anytime I'm working on code, adding a ticket
+in trac and putting it manually into the backlog file in our svn.
+
+Not sure if I used the code counting exe correctly it gave me more lines of code than I'm counting. My count is at 87, I will use the
+number that the exe is counting above in total, but I think that it may be wrong. The log with all the files lines will be in the root
+folder with the solution if you want to check it.

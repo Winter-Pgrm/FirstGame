@@ -1,0 +1,29 @@
+Level names should be 6 characters or less without red or blue qualifier. ex Level4
+There should be an image with this name (name).bmp that will act as the collision map. ex Level4.bmp
+These should be paired with two image files called (name)Blue.bmp and (name)Red.bmp ex Level4Blue.bmp and Level4Red.bmp
+The red file is what displays when the player can pass through red, and blue is the opposite.
+
+This level name is added at the top of the "LevelManger.c" file, and when you add a new level increase the level count.
+
+For the collision colors the pixel (RGB from the edit colors) should be Red=255 Blue=0 Green=0 for red and Red=0 Blue=255 Green=0 for blue.
+
+Levels should include:
+
+A single(small) pixel with the RGB Red = 255, Blue = 255, Green = 150. This is the starting point for the player.
+A single(small) pixel with the RGB Red = 255, Blue = 255, Green = 100. This is the end point of the level.
+
+Checkpoints are made from lines covering the trigger area and will use the center of that area as the ground for the respawn point.
+The checkpoint colors are R = 255, B = 255, Green = 200. 
+
+These pixels will be pinkish.
+
+
+
+Making Bitmap files in GIMP:
+
+Export as..
+Windows BMP image (*.bmp)
+Filename.bmp
+Select File Type (By Extension)
++ Advanced Options
+24 bits R8 G8 B8

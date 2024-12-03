@@ -1,0 +1,24 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.72  T=0.50 s (46.0 files/s, 6136.0 lines/s)"
+C,GameStateLevel1.c,131,147,342
+C,Animation.c,29,42,128
+C,GameStateTable.c,33,48,105
+C,physics.c,23,37,98
+C,LevelManager.c,43,60,90
+C,Sprite.c,20,37,82
+C,Commandlist.c,18,37,78
+C,GameStateLevel2.c,22,39,71
+C,GameStateManager.c,26,49,69
+C,AnimationSequence.c,18,34,66
+C,SpriteSource.c,17,33,62
+C,DigipenLogo.c,25,31,49
+C,MainMenu.c,21,34,47
+C,Engine.c,27,57,38
+C,Collision.c,20,63,36
+C,FMOD.c,19,36,36
+C,Trace.c,19,39,30
+C,GameStateStub.c,16,39,26
+C,Mesh.c,14,33,19
+C,Main.c,7,19,14
+C,Stub.c,12,37,12
+C,stdafx.c,3,11,1
+C,Pause.c,12,31,1
